@@ -1,4 +1,4 @@
 # roadsridingmures
-Mu first project made from scratch without any experience
+My own blog made from scratch
 
-Copyright © 2019 Raul Rațiu. All Rights Reserved.
+Copyright © 2019 Raul Rațiu. All Rights Reserved. 
